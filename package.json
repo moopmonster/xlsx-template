@@ -22,15 +22,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/moopmonster/xlsx-template-mod.git"
+    "url": "http://github.com/moopmonster/xlsx-template.git"
   },
   "bugs": {
-    "url": "http://github.com/moopmonster/xlsx-template-mod/issues"
+    "url": "http://github.com/moopmonster/xlsx-template/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/moopmonster/xlsx-template-mod/raw/master/LICENSE"
+      "url": "http://github.com/moopmonster/xlsx-template/raw/master/LICENSE"
     }
   ],
   "jest": {
