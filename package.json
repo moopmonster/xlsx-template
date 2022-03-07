@@ -1,6 +1,6 @@
 {
-  "name": "xlsx-template",
-  "version": "1.3.2",
+  "name": "xlsx-template-mod",
+  "version": "1.3.2.1",
   "description": "Generate .xlsx (Excel) files from templates built in Excel",
   "main": "./lib/index",
   "files": [
@@ -22,15 +22,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/optilude/xlsx-template.git"
+    "url": "http://github.com/moopmonster/xlsx-template-mod.git"
   },
   "bugs": {
-    "url": "http://github.com/optilude/xlsx-template/issues"
+    "url": "http://github.com/moopmonster/xlsx-template-mod/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/optilude/xlsx-template/raw/master/LICENSE"
+      "url": "http://github.com/moopmonster/xlsx-template-mod/raw/master/LICENSE"
     }
   ],
   "jest": {
