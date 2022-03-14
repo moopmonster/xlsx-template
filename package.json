@@ -1,6 +1,6 @@
 {
   "name": "xlsx-template-mod",
-  "version": "1.3.2",
+  "version": "1.3.4",
   "description": "Generate .xlsx (Excel) files from templates built in Excel",
   "main": "./lib/index",
   "files": [
